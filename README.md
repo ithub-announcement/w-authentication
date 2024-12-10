@@ -40,9 +40,9 @@ buildscript {
 
 ```
 src/
-  main/
+  main/ # <--- Здесь создайте папку.
     java/...
-    proto/ # <--- Здесь создайте папку.
+    proto/ # <--- Вот так.
     resources/...
 ```
 
